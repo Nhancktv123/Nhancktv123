@@ -5,10 +5,11 @@
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,spring,eclipse,mysql,vscode,git,github" /><br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,spring,eclipse,mysql,vscode,git,github" /><br>
+</div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Nhancktv123">
@@ -16,7 +17,7 @@
   </a>
 </div>
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🔍 Where to find me 🔎</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
