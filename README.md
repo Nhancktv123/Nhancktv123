@@ -12,8 +12,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <a href="#" title="Nhancktv123">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nhancktv123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nhancktv123&theme=gruvbox&border_radius=8" alt="GitHub Streak" />
   </a>
 </div>
 <br>
