@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,spring,eclipse,mysql,vscode,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,spring,eclipse,mysql,postgres,vscode,git,github" /><br>
 </div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -19,7 +19,6 @@
 <br>
 <h2 align="center">🔍 Where to find me 🔎</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   </a>
   <a href="https://facebook.com/letrongnhancktv" target="blank">
