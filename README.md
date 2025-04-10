@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,spring,eclipse,mysql,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,java,spring,eclipse,mysql,vscode" /><br>
 </div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
