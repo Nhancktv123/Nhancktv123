@@ -9,13 +9,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,java,mongodb,mysql,vscode" /><br>
 </div>
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nhancktv123&theme=gruvbox&border_radius=8" alt="GitHub Streak" />
-  </a>
-</div>
-<br>
 <h2 align="center">🔍 Where to find me 🔎</h2>
 <br>
 <div align="center">
