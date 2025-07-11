@@ -6,7 +6,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,nestjs,expressjs,java,postgresql,mysql,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,nestjs,expressjs,java,postgresql,,mysql,vscode" /><br>
 </div>
 <br>
 <h2 align="center">🔍 Where to find me 🔎</h2>
